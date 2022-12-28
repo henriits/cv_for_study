@@ -1,0 +1,26 @@
+
+
+    body {
+        background-color: powderblue;
+    }
+    hr {
+        background-color: powderblue;
+        border-style: none;
+
+        width: 10%;
+        line-style: dotted;
+        border-top: 6px dotted #66BFBF;
+    }
+    img {
+        height: 150px;
+    }
+
+    h1 {
+        color: #66BFBF;
+
+    }
+    h3 {
+        color: #66BFBF;
+
+    }
+
